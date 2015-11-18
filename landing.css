@@ -3,11 +3,6 @@ body {
   font-family: "Genome";
 }
 
-.navbar {
-	position: absolute;
-	text-transform: uppercase;
-}
-
 .header {
 	padding-top: 150px;
 	padding-bottom: 150px;
