@@ -10,15 +10,21 @@ body {
 	/*height: 100vh;*/
 }
 
+.lead {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
 .info {
 	background-color: #F0F0F0;
-	padding-bottom: 100px;
-	padding-top: 100px;
+	padding-bottom: 150px;
+	padding-top: 150px;
 }
 
 h3 {
 	padding-right: 15vw;
 	padding-left: 15vw;
+	font-size: 30px;
 }
 
 h1 {
@@ -48,7 +54,7 @@ h2 {
 }
 
 .inspiration {
-	/*background:url(img/1.jpg) top right no-repeat;
+	/*background:url(img/dts/2-compressor.jpg) top right no-repeat;
 	background-attachment:fixed;*/
 	background:url(img/dts/2.jpg);
 	width: 100%;
@@ -59,7 +65,7 @@ h2 {
 }
 
 .goals {
-	/*background:url(img/2.jpg) top right no-repeat;
+	/*background:url(img/dts/1-compressor.jpg) top right no-repeat;
 	background-attachment:fixed;*/
 	background:url(img/dts/1.jpg);
 	-webkit-background-size: cover;
@@ -69,7 +75,7 @@ h2 {
 }
 
 .blog {
-	/*background:url(img/3.jpg) top right no-repeat;
+	/*background:url(img/dts/5-compressor-compressor.jpg) top right no-repeat;
 	background-attachment:fixed;*/
 	background:url(img/dts/5.jpg);
 	-webkit-background-size: cover;
@@ -79,7 +85,7 @@ h2 {
 }
 
 .follow {
-	/*background:url(img/3.jpg) top right no-repeat;
+	/*background:url(img/dts/4.jpg) top right no-repeat;
 	background-attachment:fixed;*/
 	background:url(img/dts/4.jpg);
 	-webkit-background-size: cover;
@@ -104,6 +110,12 @@ h2 {
 	letter-spacing: 2px;
 	font-size: 20px;
 	-webkit-transition: 1s;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .btn-sign-up:hover {
