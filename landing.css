@@ -29,6 +29,7 @@ h3 {
 
 h1 {
 	font-size: 120px;
+	text-transform: uppercase;
 }
 
 h2 { 
@@ -95,8 +96,8 @@ h2 {
 }
 
 .sign-up {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 150px;
+	padding-bottom: 150px;
 }
 
 .btn-sign-up {
@@ -123,12 +124,18 @@ h2 {
 	color: white;
 }
 
+.message {
+	padding-bottom: 50px;
+	/*padding-top: 100px;*/
+}
+
 .footer {
 	background-color: black;
+	background-color: #F0F0F0;
 }
 
 h4 {
-	color: white;
+	/*color: white;*/
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
@@ -139,6 +146,7 @@ h4 {
 
 a {
 	color: white;
+	color: black;
 	-webkit-transition: 1s;
 }
 
